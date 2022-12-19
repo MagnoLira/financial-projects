@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data science, Statistics and Investments.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: 
-            email: silvalira968@gmail.com;
             linkedin: Magno Lira
             Instagram: i.magnovital
 
