@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data science, Statistics, Economics.  
 - 🌱 I’m currently learning Data science, Statistics and Investments.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: 
-            linkedin: Magno Lira
+- 📫 How to reach me: linkedin: Magno Lira
             Instagram: i.magnovital
+            email: magnovital.lira@gmail.com
 
 <!---
 MagnoLira/MagnoLira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
