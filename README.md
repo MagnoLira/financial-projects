@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @MagnoLira
-- 👀 I’m interested in Data science, Statistics, Economics.  
-- 🌱 I’m currently learning Data science, Statistics and Investments.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: linkedin: Magno Lira
-            Instagram: i.magnovital
-            email: magnovital.lira@gmail.com
-
-<!---
-MagnoLira/MagnoLira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A data scientist and investor with skills to extract, collect, transform and visualize data. Problem-solving skills such as analytical thinking. Strong mathematical backgrounds, such as calculus, linear algebra, and financial mathematics.
+I'm using data tools such as python, excel, and SQL. 
+I'm developing knowledge in data mining, machine learning, and prediction analysis.
