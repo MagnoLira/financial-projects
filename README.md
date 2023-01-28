@@ -2,6 +2,19 @@ A data scientist and investor with skills to extract, collect, transform and vis
 I'm using data tools such as python, excel, and SQL. 
 I'm developing knowledge in data mining, machine learning, and prediction analysis.
 how to reach me:
+
+
+
+
 LinkedIn: /magnolira
+
+
+
+
 Instagram: @i.magnovital
+
+
+
+
+
 email: magnovital.lira@gmail.com
